@@ -22,6 +22,7 @@
     
     
     NSLog(@"111");
+    NSLog(@"didi");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
